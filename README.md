@@ -1,1 +1,1 @@
-# RGD-LED-Light-Box
+# RGB-LED-Light-Box
